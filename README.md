@@ -1,4 +1,9 @@
-Tested in Firefox Latest with Greasemonkey:
+=== Firefox ===
+1. Install Greasemonkey plugin for Firefox
 https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
 
-LICENSE: Public Domain
+2. Open the script and press the *Raw* button
+![Image Press the RAW](http://i.imgur.com/DayPrJv.png)
+
+=== License ===
+Public Domain
